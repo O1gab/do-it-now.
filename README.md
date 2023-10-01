@@ -1,5 +1,7 @@
 # do-it-now.
 
+"Do It Now" is an application that I developed as a personal project using the Swift programming language. The application is designed for creating and editing notes on iPhones.
+
 **do it now.**  
 
 Simplify your note-taking experience with „do it now.“, the minimalist and user-friendly note-taking app.
